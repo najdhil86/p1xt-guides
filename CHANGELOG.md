@@ -2,16 +2,42 @@
 
 Typically this will only list resource additions and deletions. The goal is always to minimize changes to the curriculum, so that someone following it isn't trying to 'hit a moving target'. However, from time to time, a resource becomes no longer available, and the curriculum will be modified to accommodate a replacement resource.
 
-**January 25, 2018** 
+**July 1, 2019**  
+Add Deep Dive Into Modern Web Development - Full Stack Open 2019 from the University of Helsinki as a fullstack bootcamp option in the specializations as it provides an opportunity to study react further after App Academy and to branch out and use Node/Express for backend.
+
+**June 29, 2019**  
+Refactored Tier 0 to remove the 'Learn Enough' resources as they'd been paywalled. Set Tier 0 as App Academy's online fullstack bootcamp - that way it can either be taken as Tier 0, or if you skip Tier 0, it can later be taken as a specialization. This makes sense to show up at this point in the Guide as the Khan Academy resources in Tier X are sufficient prep for App Academy to be doable but challenging.
+
+**May 25, 2019**  
+Complete overhaul to version Version 4.0. Consolidated the 'special interest' guides into specializations, migrated from Coursera and eDX resources which now sit behind paywalls, and restructured the 'guides' into one cohesive guide that contains core material within each tier and allows further study each tier of a learner selected specialization. This fixes two issues. First, it handles the paywall issues to make the guide require less volatile maintenance (swapping out courses as they are paywalled). Second, it provides better structure and answers the 'which guide should I pick' question.
+
+All prior guides have been moved to deprecated and may be out of date and/or contain dead links. Focus will be on maintaining the 4.0 Guide version, deprecated guides will not be maintained.
+
+**December 1, 2018**
+Added Job Ready Guide - JavaScript Edition 3.0.
+Added Video Game Programming - comprehensive foundations 2.0.
+Marked all previous versions of the Job Ready and Video Game Programming guides as deprecated. The deprecated guides remain for those who don't want to switch to the newer versions but they are no longer maintained and may contain dead links.
+
+**April 26, 2018**
+Swapped the Natural Language Processing course from Michigan for the Robotics Fundamentals course from Penn. There wasn't a similarly outstanding NLP course available so I replaced it with an outstanding course from a similarly interesting field taught at a similarly advanced level of rigor.
+
+**April 2, 2018**
+Added Computer Science and Backend Development - Java Focus Guide.
+
+**March 31, 2018**
+Swapped the OSU Calculus courses from Coursera (they're being decommissioned) for MITOCW Calculus Courses.
+
+**March 6, 2018**
+Added [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) to the cs-wd and wd-cs guides. It's the next course in the series and became available today.
+
+**January 25, 2018**
 
 Added Vue topic guide.
 Added React topic guide.
 
-
-**January 24, 2018** 
+**January 24, 2018**
 
 Added Angular topic guide.
-
 
 **January 03, 2018**
 
